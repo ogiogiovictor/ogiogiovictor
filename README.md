@@ -1,6 +1,7 @@
 <h2> Hi There! I'm Ogiogio Victor.</h2>
 
-<img src="![fullstack_victor](https://user-images.githubusercontent.com/46789910/172022355-d8b0ec26-c546-4cf4-b0e8-f55d00c027b9.jpeg)" />
+![fullstack_victor](https://user-images.githubusercontent.com/46789910/172022391-4a42a3e5-91e5-4fe6-9a7a-9354ef33be19.jpeg)
+
 
 <h3> About Me </h3>
 
