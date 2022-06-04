@@ -1,50 +1,33 @@
-# Fashion Capstone Project A
-Globerry Fashion Training School
-The project is a fashion training school where student learn how to design and develop their craft
+<h2> Hi There! I'm Daniel Ufeli.</h2>
 
-# About Project
-Globerry fashion school helps student learn how to design and sew clothes from scratch. It empowers youth and young talent and help them grow and nurture their skills
-![image](https://user-images.githubusercontent.com/46789910/169712634-5123cd09-403c-4d13-a033-c972b2ab42e6.png)
+<img src="https://github.com/danielufeli/danielufeli/blob/main/header.png" />
 
-# Built With 
-- HTML
-- CSS (Flexbox | Grid System)
-- Linters: Webhint, Stylelint & ESLint
-- Javascript
+<h3> About Me </h3>
 
-# Getting Started
-To get a local copy up and running follw these simple example steps:
+- 🔭 &nbsp; I’m currently a full stack web engineer
+- 🤔 &nbsp; I love Exploring new technologies and developing unique software solutions.
+- 🌱 &nbsp; Enthusiast in Data science and Artificial Intelligence .
+- ✍️ &nbsp; I Love football (An Man United For Life).
+- ☕ &nbsp; I belive, a perfect wine can be the ultimate solution for any stress. 
 
-```
-    - Select the link with the code on the https code table in the repo
-    - Open a Terminal and write the command: git clone https://github.com/ogiogiovictor/microverse_globerry_capstone
-    - $ cd into the directory
-    - $ Open the index.html file in a browser.
-```
+<h3>🛠 Tech Stack</h3>
 
-# Website URL - Github Pages
-The Webpage is now deployed using github pages. See url link below:
-[live demo]( https://ogiogiovictor.github.io/microverse_globerry_capstone/)
+- 🌐 &nbsp; <i> Javascript | PHP | React | Vue | Bootstrap | HTML | CSS | Dart | </i>
+- 🛢 &nbsp; <i>MySQL | Firebase | Postgre </i>
+- 🔧 &nbsp; <i>Visual Studio code | Git | </i>
+- 🖥 &nbsp; <i>Eslint | Stylint | Webhint</i>
 
-# Video Link
-The video describe the project and some key code snippets of the projec
-[Video Link](https://www.loom.com/share/4d2def2e5d404338b221be85ee1b5465 )
+<br>
 
-# Authors 👤
-- GitHub: @ogiogiovictor
--Twitter: [Ogiogio Victor](https://twitter.com/a0df623fb9d9482)
--LinkedIn:  [Ogiogio Victor](https://www.linkedin.com/in/ogiogio-victor-a096a0181/)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogiogiovictor&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ogiogiovictor's Github Stats">
 
+</br>
 
-# 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogiogiovictor&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ogiogiovictor/)
 
-Feel free to check the issues page.
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
 
-# Show your support
-Kindly give a :hearts: if you like this.
-
-# Acknowledgement
-- I expressed my gratitude for everyone.
-- I also acknowledge Cindy Shin - GUI & Graphics Designer (https://www.behance.net/adagio07)
-
+<p align="center">
+&nbsp; <a href="https://www.linkedin.com/in/ogiogio-victor-a096a0181/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:ogiogiovictor@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
