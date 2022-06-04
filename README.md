@@ -1,4 +1,4 @@
-<h2> Hi There! I'm Daniel Ufeli.</h2>
+<h2> Hi There! I'm Ogiogio Victor.</h2>
 
 <img src="https://github.com/danielufeli/danielufeli/blob/main/header.png" />
 
@@ -19,7 +19,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogiogiovictor&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ogiogiovictor's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogiogiovictor&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ogiogiovictor Github Stats">
 
 </br>
 
