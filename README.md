@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; <i> Javascript | PHP | React | Vue | Bootstrap | HTML | CSS | Dart | </i>
+- 🌐 &nbsp; <i> Javascript | PHP | React | Vue | Bootstrap | HTML | CSS | Dart | Ruby | </i>
 - 🛢 &nbsp; <i>MySQL | Firebase | Postgre </i>
 - 🔧 &nbsp; <i>Visual Studio code | Git | </i>
 - 🖥 &nbsp; <i>Eslint | Stylint | Webhint</i>
