@@ -5,11 +5,11 @@
 
 <h3> About Me </h3>
 
-- 🔭 &nbsp; I’m currently a full stack web engineer
-- 🤔 &nbsp; I love Exploring new technologies and developing unique software solutions.
-- 🌱 &nbsp; Enthusiast in Data science and Artificial Intelligence .
-- ✍️ &nbsp; I Love football (An Man United For Life).
-- ☕ &nbsp; I belive, a perfect wine can be the ultimate solution for any stress. 
+- 🔭 &nbsp; I’m currently a Full-stack Engineer
+- 🤔 &nbsp; I love Exploring new technologies and developing unique and enterprise software solutions.
+- 🌱 &nbsp; Love Data science and Artificial Intelligence .
+- ✍️ &nbsp; I Love Football (A Man United Fan For Life).
+- ☕ &nbsp; I believe, a perfect wine can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
