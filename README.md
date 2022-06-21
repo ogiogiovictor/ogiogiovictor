@@ -1,6 +1,6 @@
 <h2> Hi There! I'm Ogiogio Victor.</h2>
 
-![fullstack_victor](https://user-images.githubusercontent.com/46789910/172022391-4a42a3e5-91e5-4fe6-9a7a-9354ef33be19.jpeg)
+![Victor Ogiogio github cover](https://user-images.githubusercontent.com/46789910/174768755-0fc649ce-0873-48ad-bef4-276bb442fadd.jpg)
 
 
 <h3> About Me </h3>
