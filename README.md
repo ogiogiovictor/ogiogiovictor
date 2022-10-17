@@ -44,7 +44,7 @@
 </br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ogiogiovictor&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ulisesedu7&theme=dark)](https://git.io/streak-stats)
+
 
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
