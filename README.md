@@ -18,8 +18,6 @@
 - 🔧 &nbsp; <i>Visual Studio code | Git | </i>
 - 🖥 &nbsp; <i>Eslint | Stylint | Webhint</i>
 
-<h3>🛠🖥  Frameworks and Libraries</h3>
-
 ### 🛠🖥 Frameworks and Libraries
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
@@ -29,6 +27,7 @@
 
 
 <h3>🛢🛠🖥 Education</h3>
+
 [FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 [MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 [Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
@@ -38,10 +37,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ogiogiovictor&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ogiogiovictor Github Stats">
 
 </br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogiogiovictor&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ogiogiovictor/)
 
 
 </br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ogiogiovictor&theme=dark)](https://git.io/streak-stats)
 [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ulisesedu7&theme=dark)](https://git.io/streak-stats)
 
